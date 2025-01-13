@@ -53,16 +53,9 @@
     <!-- Part 2: แสดงผล UX/UI -->
     <h2>แสดงผลแบบ UX/UI</h2>
     <div id="temple" class="templeall">
-        <div id="watthai" class="wat">
-            <img id="imagewatthai" class="imagewatthai2" src="image1.jpg" alt="Wat Thai">
-        </div>
-        <div id="watthai" class="wat">
-            <img id="imagewatthai" class="imagewatthai2" src="image2.jpg" alt="Wat Thai">
-        </div>
-        <div id="watthai" class="wat">
-            <img id="imagewatthai" class="imagewatthai2" src="image3.jpg" alt="Wat Thai">
-        </div>
+        <img src="2024-11-01 07_25_57-ดำเนินการจัดทำการแสดงผลด้วย HTML.docx  -  มุมมองที่ได้รับการป้องกัน - Word.png" alt="Temple by Region" style="width:100%; height:auto;">
     </div>
+    
     <button onclick="toggleAutoPlay()">Toggle Auto Play</button>
 
     <script>
