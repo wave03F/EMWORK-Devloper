@@ -1,5 +1,3 @@
-# EMWORK-Devloper
-ข้อสอบพื้นฐาน devloper
 <!-- Part 1: ระบบขออนุญาตลาหยุด -->
 <!DOCTYPE html>
 <html lang="en">
